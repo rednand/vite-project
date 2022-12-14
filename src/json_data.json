@@ -1,0 +1,30 @@
+[
+  {
+    "entidade": {
+      "nomeEntidade": "CAD_USUARIO",
+      "colunas": [
+        { "id": { "style": ["td"] }, "infos": [1, 2, 3, 4, 5, 6] },
+        {
+          "nome": { "style": ["td"] },
+          "infos": ["João", "Renan", "Maria", "Joana", "José", "Fernando"]
+        },
+        {
+          "tipo": { "style": ["td"] },
+          "infos": ["tipo1", "tipo2", "tipo3", "tipo4", "tipo5", "tipo6"]
+        },
+        {
+          "ativo": { "style": ["td"] },
+          "infos": ["true", "true", "true", "true", "false", "false"]
+        }
+      ],
+      "tags": {
+        "table": "table",
+        "h2": "h2",
+        "tr": "tr",
+        "td": "td",
+        "img": "img"
+      },
+      "imagem": "https://img.icons8.com/ios-glyphs/30/null/pencil--v1.png"
+    }
+  }
+]
